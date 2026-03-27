@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <title>Tapsirma</title>
+</head>
+<body>
+    <label><b>Login</b></label> <br>
+    <input type="text">
+    <br>
+    <br>
+    <label><b>Parol</b></label> </br>
+    <input type="password">
+    <br>
+    <br>
+    <button>Kiriw</button>
+    
+</body>
+</html>
