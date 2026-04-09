@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="kk">
+<head>
+    <meta charset="UTF-8">
+    <title>Form</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+    <h2>Oziniz haqinda magulmat beriw</h2>
+
+    <form>
+        <label>Atiniz:</label><br>
+        <input type="text" name="name" placeholder="Atiniz"><br><br>
+
+        <label>Email:</label><br>
+        <input type="email" name="email" placeholder="email@gmail.com"><br><br>
+
+        <label>Parol:</label><br>
+        <input type="password" name="password"><br><br>
+
+        <label>Jinisi:</label><br>
+        <input type="radio" name="jinisi" value="erkek"> Erkek
+        <input type="radio" name="jinisi" value="hayal"> Hayal
+        <br><br>
+
+        <label>Xobbiy:</label><br>
+        <input type="checkbox"> shaqmat
+        <input type="checkbox"> Kitap oqiw
+        <input type="checkbox"> Sayaqat
+        <br><br>
+
+        <label>Oziniz haqqinda:</label><br>
+        <textarea rows="4" cols="30" placeholder="Oziniz haqqinda..."></textarea>
+        <br><br>
+
+        <label>Suwret</label><br>
+        <input type="file">
+        <br><br>
+
+        <button type="submit">Jiberiw</button>
+    </form>
+</div>
+
+</body>
+</html>
