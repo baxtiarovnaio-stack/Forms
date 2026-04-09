@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>form part 3</title>
+    </head>
+    <body>
+        <form>
+            <input typt="text" placeholder="Atinizdi jazin">
+            <br> <br>
+            <label>Menin jaqsi koretugin
+Miywem</label> <br> <br>
+            <select>
+                <option>Alma</option>
+                <option>Juzim</option>
+                <option>Banan</option>
+                <option>Shabdal</option>
+</select> 
+            <br> <br>
+            <label>Ne ushin?</label>
+            <br>
+            <textarea rows="4" cols="30""></textarea>
+                    
+        </form>
+    </body>
+</html>
