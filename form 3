@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Form Part 3</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    
+
+    <!-- Select -->
+    <select class="select-box">
+        <option>Shashtaraz</option>
+        <option>Muzikant</option>
+        <option>Qosiqshi</option>
+    </select>
+
+    <br><br>
+
+    <!-- Textarea -->
+    <textarea class="text-area" rows="4" cols="35" placeholder="Pikirinizdi usi jerge jazin..."></textarea>
+
+</body>
+</html>
