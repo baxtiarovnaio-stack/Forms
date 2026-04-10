@@ -23,3 +23,25 @@
 
 </body>
 </html>
+/* Select */
+.select-box {
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+.select-box:hover {
+    box-shadaw: 5px 5px 6px green;
+}
+
+/* Textarea */
+.text-area {
+    width: 300px;
+    padding: 10px;
+    border: 2px solid lightcoral;
+}
+
+.text-area:hover {
+    border-color: blue;
+}
+
